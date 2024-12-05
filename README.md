@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Raikirimaru/Raikirimaru/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -71,10 +71,20 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Raikirimaru.vercel.app/?user=Raikirimaru&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Raikirimaru.vercel.app/api?username=Raikirimaru&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Raikirimaru.vercel.app/api/top-langs/?username=Raikirimaru&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true&theme=ambient_gradient&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikirimaru&layout=donut"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raikirimaru&show_icons=true" />
+</picture>
+<img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Raikirimaru&count_private=true&theme=ocean_gradient&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/><br/>
